@@ -1,2 +1,2 @@
 # CSC840
-CSC840 Final Project
+CSC840 Projects
