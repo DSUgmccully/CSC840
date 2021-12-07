@@ -23,5 +23,5 @@ aaaa
 
 ## Additional Resources
 - <a href="https://networklessons.com/ospf/ospf-lsa-types-explained">LSA Types</a>
-- <a href ="https://learningnetwork.cisco.com/s/article/ospf-hello-and-lsa-packets"> OSPF LSA and Hello Packets</a>
--
+- <a href="https://learningnetwork.cisco.com/s/article/ospf-hello-and-lsa-packets">OSPF LSA and Hello Packets</a>
+- <a href="https://www.rogerperkin.co.uk/ospf/ospf-authentication/">OSPF Authentication Types</a>
