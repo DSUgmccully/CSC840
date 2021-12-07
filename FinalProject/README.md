@@ -22,6 +22,6 @@ aaaa
 
 
 ## Additional Resources
--
+- <a href="https://networklessons.com/ospf/ospf-lsa-types-explained">LSA Types</a>
 -
 -
