@@ -36,6 +36,7 @@ Additional topics that may be related to OSPF exploitation include exploitation 
 - <a href="https://www.youtube.com/watch?v=oaZNOUZBXu0">OSPF Authentication Crack (Video)</a>
 - <a href="https://www.rogerperkin.co.uk/ospf/ospf-authentication/">OSPF Authentication Types</a>
 - <a href="https://learningnetwork.cisco.com/s/article/ospf-hello-and-lsa-packets">OSPF LSA and Hello Packets</a>
+- <a href="https://www.youtube.com/watch?v=6vcM5n3EY7I">OSPF Route Injection Presentation and Demo (Video)</a>
 - <a href="https://docs.netgate.com/pfsense/en/latest/packages/frr/ospf/config-ospf.html">OSPF Tab Configuration</a>
 - <a href="https://datatracker.ietf.org/doc/html/rfc2328#page-232">OSPF Version 2 RFC</a>
 - <a href="http://cmdr-keen.blogspot.com/2015/05/widening-attack-landscape-with-ospf_3.html">Widening Attack Landscape with OSPF Route Injection</a>
